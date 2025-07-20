@@ -54,7 +54,10 @@ Output:
   Source: book.pdf 
   <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/a5361e50-bdf2-4911-a430-443de186a9ed" />
 
+  <img width="1920" height="1080" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/87e43084-15db-45e9-8715-064239643da8" />
+
   <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/20e4ea1b-df25-4f22-ae3a-d3e8daec1e00" />
+
 
 
 Completed Features
