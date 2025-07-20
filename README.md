@@ -53,6 +53,8 @@ Output:
   Answer: [LLM-generated answer here]
   Source: book.pdf (page X, Y...)
   Time taken: X.XX seconds
+  <img width="1920" height="1080" alt="Screenshot (3)" src="https://github.com/user-attachments/assets/20e4ea1b-df25-4f22-ae3a-d3e8daec1e00" />
+
 
 Completed Features
 ------------------
