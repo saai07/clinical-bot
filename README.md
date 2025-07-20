@@ -82,7 +82,7 @@ Design Assumptions
 
 How to Run
 ----------
-pip install langchain langchain_community sentence-transformers faiss-cpu transformers
+pip install -r req.txt
 python main.py
 
 Use of ChatGPT
