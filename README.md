@@ -85,10 +85,11 @@ Design Assumptions
 
 How to Run
 ----------
+```bash
 pip install -r req.txt
 
 python main.py
-
+```
 Use of ChatGPT
 --------------
 - Code structure and class design
