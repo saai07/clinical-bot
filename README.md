@@ -90,7 +90,7 @@ pip install -r req.txt
 
 python main.py
 ```
-Use of ChatGPT
+Use of Generative Tools
 --------------
 - Code structure and class design
 - Prompt design
